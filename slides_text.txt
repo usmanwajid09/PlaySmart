@@ -1,0 +1,294 @@
+Chapter 12
+DESIGN, PROTOTYPING and CONSTRUCTION
+Overview 
+Prototyping
+Conceptual design 
+Concrete design
+Generating prototypes
+Construction
+
+www.id-book.com
+2
+Designing with or for People?
+Is stakeholder engagement one-way?
+Co-design
+Emphasizes creativity and mutual learning
+Often multidisciplinary
+Participatory design (Scandinavian version)
+Stakeholders are design partners 
+Co-operative prototyping is important
+Community-based design
+Scale in terms of numbers and diversity 
+
+
+www.id-book.com
+3
+Prototyping
+What is a prototype? 
+Why prototype?
+Different kinds of prototyping
+Low fidelity
+High fidelity
+Compromises in prototyping
+Vertical 
+Horizontal
+Final product needs to be engineered
+
+
+www.id-book.com
+4
+www.id-book.com
+What is a prototype?
+One manifestation of a design that allows stakeholders to interact with it
+In other design fields, a prototype is a small-scale model:
+A miniature car
+A miniature building or town	
+5
+Source: PalmPilot wooden model © Mark Richards 
+www.id-book.com
+What is a prototype in interaction design?
+Among other things an interaction design prototype can be:
+A series of screen sketches
+A storyboard, for example, a cartoon-like series of scenes 
+A PowerPoint slide show
+A video simulating the use of a system
+A lump of wood (for instance, the PalmPilot)
+A loosely connected set of electronic elements
+An animation of product use
+A piece of software with limited functionality written in the target language or in another language
+6
+www.id-book.com
+Example interaction design prototype
+7
+A paper-based prototype of a handheld device to support an autistic child 
+Used courtesy of Sigil Khwaja 
+
+www.id-book.com
+Why prototype?
+Evaluation and feedback are central to interaction design
+Stakeholders can see, hold, and interact with a prototype more easily than a document or a drawing
+Team members can communicate effectively
+Ideas can be tested out
+Prototyping encourages reflection: an important aspect of design 
+Prototypes answer questions and support designers in choosing between alternatives 
+8
+Low-fidelity Prototyping
+Uses a medium which is unlike the final medium, for example, paper or cardboard
+Is simple, quick, cheap & easily changed
+Examples:
+Sketches of screens and task sequences
+Index cards or sticky notes
+Storyboards
+Wizard-of-Oz	
+
+www.id-book.com
+9
+www.id-book.com
+Storyboards
+A series of sketches showing how someone might progress through a task using the product
+Often used with scenarios, bringing in more detail and a chance to role play
+how a user interacts with a system step-by-step through a sequence of sketches or panels
+10
+www.id-book.com
+Storyboards
+Each panel typically shows:
+The user
+The context or environment
+The interface interaction
+The result or system response
+
+11
+Example storyboard
+www.id-book.com
+12
+Another Example
+www.id-book.com
+13
+www.id-book.com
+Sketching
+Low-fidelity prototyping often relies on sketching
+Don’t be inhibited about drawing ability — Practice simple symbols
+
+ 		
+14
+www.id-book.com
+Prototyping with index cards
+Index cards (3 x 5 inches) 
+Each card represents one element of interaction
+In evaluation, can step through the cards
+15
+www.id-book.com
+Wizard-of-Oz prototyping
+The participant thinks they are interacting with a computer, but a human is responding to output rather than the system
+
+Usually done early in design to understand peoples’ expectations
+16
+
+What ethical issues are there with this approach?
+
+High-fidelity prototyping
+Uses materials that would be in the final product 
+Prototype looks more like the final system than a low-fidelity version 
+High-fidelity prototypes can be developed by integrating existing hardware and software components 
+Danger that people think they have a complete system…see compromises  	
+
+
+www.id-book.com
+17
+www.id-book.com
+Compromises in prototyping
+Prototyping involve compromises
+For software-based prototyping, maybe there is a slow response? sketchy icons? limited functionality? 
+In-the-wild prototypes are operational but not necessarily robust
+Two common types of compromise:
+Horizontal: wide range of functions, with little detail
+Vertical: a lot of detail for only a few functions
+Other common compromise: robust vs changeable
+Beware of compromises in prototypes as final product needs to be engineered
+
+18
+Class Activity
+Design a storyboard for following scenario
+Ali has a short break and wants to order food using a food delivery app.
+Ali has a 30-minute break and feels hungry
+Ali opens the food delivery app
+He browses nearby restaurants
+Ali selects a meal and places the order
+Order confirmed. Delivery in 20 minutes
+www.id-book.com
+19
+Panel 1
+Stick figure of Ali
+Clock showing limited time.
+Ali holding phone
+Ali feels hungry
+www.id-book.com
+20
+Panel 2
+Phone screen
+App icon
+Ali tapping the screen
+www.id-book.com
+21
+Panel 3
+Phone screen with list of restaurants
+Ali scrolling
+www.id-book.com
+22
+Panel 4
+Phone screen with food item
+Button labeled “Order”
+www.id-book.com
+23
+Panel 5
+Order confirmed
+Delivering in 20 min
+www.id-book.com
+24
+Conceptual design
+www.id-book.com
+A conceptual model is an outline of what people can do with a product and what concepts are needed to understand how to interact with it
+Creativity and brainstorming techniques
+Consider alternatives: scenarios and prototyping help
+
+25
+Interface metaphor
+An interface metaphor is a design concept where elements of a user interface are based on familiar real-world objects or experiences 
+helping users understand how the system works.
+It uses users’ existing knowledge to make the interface intuitive
+
+26
+www.id-book.com
+Choosing an interface metaphor
+Interface metaphors combine familiar knowledge with new knowledge in a way that will help the user understand the product. 
+Three steps: understand functionality, identify potential problem areas, and generate metaphors
+Evaluate metaphors:
+How much structure does it provide?
+How much is relevant to the problem?
+Is it easy to represent?
+Will the audience understand it?
+How extensible is it?
+
+27
+www.id-book.com
+Examples of Interface Metaphors
+www.id-book.com
+28
+Wireframes
+A wireframe is a low-fidelity visual representation of a user interface layout that shows:
+Screen structure
+Placement of interface elements
+Navigation components
+Information hierarchy
+do not focus on colors, graphics, or visual design, but on structure and functionality
+www.id-book.com
+29
+Wireframes
+What wireframes typically show
+Buttons
+Menus
+Navigation bars
+Input fields
+Content areas
+Labels or placeholders
+www.id-book.com
+30
+Wireframes
+The "Rules" of Wireframing:
+No Color: Use only grayscale (white, black, and gray). 
+Placeholders: Use an "X" in a box to represent an image and "Lorem Ipsum" or simple lines for text.
+Standard Symbols: Use common UI patterns (magnifying glass for search, three lines for a menu).
+
+www.id-book.com
+31
+Wireframes Examples
+www.id-book.com
+32
+Wireframes Examples
+www.id-book.com
+33
+Wireframes(using design tools)
+www.id-book.com
+34
+Wireframes dashboard example
+www.id-book.com
+35
+Why Wireframes are Important in User-Centered Design
+Translate scenarios and storyboards into interface screens
+Focus on layout and usability rather than aesthetics
+Identify navigation problems early
+Enable fast design iteration
+Facilitate communication with developers and stakeholders
+www.id-book.com
+36
+Class Activity
+Ali is in a rush and wants to order his "usual" burger.
+The Goal: Design a wireframe for the Home Screen of the food app that prioritizes speed for a user like Ali.
+Top Section: Search bar and Delivery Address.
+Middle Section: "Order Again" horizontal scroll (so Ali can find his burger in one tap).
+Bottom Section: Categories (Pizza, Burgers, Sushi) using simple icons.
+Footer: Navigation bar (Home, Search, Orders, Profile).
+
+www.id-book.com
+37
+
+
+Lo-fi Vs. Hi-fi example
+Wireframe (left)
+Vs.
+Mockup (right)
+Summary
+Prototyping may be low fidelity (such as paper-based) or high fidelity (such as software-based)
+Ready-made software and hardware helps create prototypes
+Two aspects to design: conceptual and concrete
+Conceptual design develops an outline of what people can do and what concepts are needed to understand the product.
+Concrete design specifies design details, for example, layout or navigation
+www.id-book.com
+40
+Summary (continued)
+Three approaches to develop an initial conceptual model: interface metaphors, interaction styles, and interface styles.
+Expand an initial conceptual model by considering whether product or user performs each function, how those functions are related, and what information is required to support them
+Scenarios and prototypes can be used to explore design ideas
+Physical computing kits and software development kits facilitate the transition from design to construction
+www.id-book.com
+41

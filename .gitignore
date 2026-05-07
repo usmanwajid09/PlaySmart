@@ -1,0 +1,14 @@
+node_modules/
+__pycache__/
+.DS_Store
+*.docx
+*.pptx
+*.zip
+WhatsApp Image *
+heuristic_extracted/
+rubric_extracted/
+scratch/
+.env
+.vscode/
+dist/
+build/
