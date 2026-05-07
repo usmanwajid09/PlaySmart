@@ -21,19 +21,34 @@ The high-fidelity designs were created with a focus on **Kinetic Minimalism** an
 - **Low fidelity design**:[https://stitch.withgoogle.com/projects/14852019868932687382]
 - **Live Figma Design**: [(https://www.figma.com/design/9dZgcvMN2yNa3AUjEIUhcN/PlaySmart_Phase4)]
 
-## 🖼️ Visual Preview
+## 🖼️ Design Evolution: From Concept to Reality
 
-### Player Experience
+### 1. Low-Fidelity Wireframes (Phase 3)
+Early stage grayscale prototypes focused on layout and user flow, minimizing cognitive load through structural simplicity.
+- **Lo-Fi Prototype**: [View on Google Stitch](https://stitch.withgoogle.com/projects/14852019868932687382)
+
 <p align="center">
-  <img src="hifi-screenshots/individual/welcome.png" width="30%" />
-  <img src="hifi-screenshots/individual/player_dashboard.png" width="30%" />
-  <img src="hifi-screenshots/individual/training_inprogress.png" width="30%" />
+  <img src="wireframe-images/login.png" width="30%" alt="Lo-Fi Login" />
+  <img src="wireframe-images/dashboard.png" width="30%" alt="Lo-Fi Dashboard" />
+  <img src="wireframe-images/progress.png" width="30%" alt="Lo-Fi Progress" />
 </p>
 
-### Analytics & Coaching
+### 2. High-Fidelity Design (Phase 4)
+The final production-ready interface using **Volt Green** and **Space Grotesk**, implementing Jakob Nielsen’s Usability Heuristics.
+- **Hi-Fi Prototype**: [View on Google Stitch](https://stitch.withgoogle.com/projects/12363635124012461076)
+
 <p align="center">
-  <img src="hifi-screenshots/individual/coach_dashboard.png" width="45%" />
-  <img src="hifi-screenshots/individual/progress_tracking.png" width="45%" />
+  <img src="hifi-screenshots/individual/welcome.png" width="30%" alt="Hi-Fi Welcome" />
+  <img src="hifi-screenshots/individual/player_dashboard.png" width="30%" alt="Hi-Fi Dashboard" />
+  <img src="hifi-screenshots/individual/training_inprogress.png" width="30%" alt="Hi-Fi Training" />
+</p>
+
+### 3. Coaching & Analytics Dashboard
+Advanced data visualization for coaches to monitor athlete performance and training schedules.
+
+<p align="center">
+  <img src="hifi-screenshots/individual/coach_dashboard.png" width="45%" alt="Coach Dashboard" />
+  <img src="hifi-screenshots/individual/progress_tracking.png" width="45%" alt="Athlete Progress" />
 </p>
 
 
