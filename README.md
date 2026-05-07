@@ -18,7 +18,8 @@ The high-fidelity designs were created with a focus on **Kinetic Minimalism** an
 
 - **Typography**: Space Grotesk (Modern, Technical)
 - **Color Palette**: Volt Green (Action/Primary), Deep Space (Background), Pure White (Content)
-- **Live Figma Design**: [Paste your Figma Link Here]
+- **Low fidelity design**:[https://stitch.withgoogle.com/projects/14852019868932687382]
+- **Live Figma Design**: [(https://www.figma.com/design/9dZgcvMN2yNa3AUjEIUhcN/PlaySmart_Phase4)]
 
 ## 🖼️ Visual Preview
 
