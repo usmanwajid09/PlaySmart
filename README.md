@@ -20,6 +20,22 @@ The high-fidelity designs were created with a focus on **Kinetic Minimalism** an
 - **Color Palette**: Volt Green (Action/Primary), Deep Space (Background), Pure White (Content)
 - **Live Figma Design**: [Paste your Figma Link Here]
 
+## 🖼️ Visual Preview
+
+### Player Experience
+<p align="center">
+  <img src="hifi-screenshots/individual/welcome.png" width="30%" />
+  <img src="hifi-screenshots/individual/player_dashboard.png" width="30%" />
+  <img src="hifi-screenshots/individual/training_inprogress.png" width="30%" />
+</p>
+
+### Analytics & Coaching
+<p align="center">
+  <img src="hifi-screenshots/individual/coach_dashboard.png" width="45%" />
+  <img src="hifi-screenshots/individual/progress_tracking.png" width="45%" />
+</p>
+
+
 ## 🛠️ Tech Stack
 
 - **Design**: Stitch (Interactive Prototyping)
